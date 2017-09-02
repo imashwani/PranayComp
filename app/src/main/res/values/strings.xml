@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PranayComp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="facebook_app_id">499650300380172</string>
+    <string name="facebook_application_id" translatable="false">499650300380172</string>
+    <string name="fb_login_protocol_scheme">fb499650300380172</string>
+    <string-array name="Schools">
+        <item>APS DK</item>
+        <item>Happy Montesory</item>
+        <item>DAV</item>
+        <item>PALAm wla school</item>
+    </string-array>
+
+    <string-array name="Problem">
+        <item>Projector</item>
+        <item>Wireing</item>
+        <item>Sound</item>
+        <item>Other..(please specify in discription)</item>
+    </string-array>
+
+
+</resources>

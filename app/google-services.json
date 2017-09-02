@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1033499463135",
+    "firebase_url": "https://pranycomputers.firebaseio.com",
+    "project_id": "pranycomputers",
+    "storage_bucket": "pranycomputers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033499463135:android:f0510d2396470b64",
+        "android_client_info": {
+          "package_name": "com.example.android.pranaycomputers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033499463135-3olo2o5v53d4kqr9k23s086q33rje0fb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.pranaycomputers",
+            "certificate_hash": "45eb47212b4de34496fd6763b4dc2d8a77725446"
+          }
+        },
+        {
+          "client_id": "1033499463135-o602f4ag2sbkoimecc1sn36v0vjke1fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcjAFZ04besH3LjSJOhcnpYKMwmbNx78c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033499463135-o602f4ag2sbkoimecc1sn36v0vjke1fm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033499463135:android:4c4ef0772be2ab50",
+        "android_client_info": {
+          "package_name": "com.example.android.pranaycomp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033499463135-66ldr0mpa67tc3kdii5l5b4hr0f7kcnr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.pranaycomp",
+            "certificate_hash": "45eb47212b4de34496fd6763b4dc2d8a77725446"
+          }
+        },
+        {
+          "client_id": "1033499463135-o602f4ag2sbkoimecc1sn36v0vjke1fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcjAFZ04besH3LjSJOhcnpYKMwmbNx78c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033499463135-o602f4ag2sbkoimecc1sn36v0vjke1fm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

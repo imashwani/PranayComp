@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/complaint_nav_bar"
+            android:icon="@drawable/ic_complaint_black_24dp"
+            android:title="Complaints"/>
+        <item
+            android:id="@+id/navbar_profile"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="Profile"/>
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Slideshow"/>
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Edit Profile"/>
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/contact_us"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Conatact Us"/>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share"/>
+        </menu>
+    </item>
+
+</menu>
