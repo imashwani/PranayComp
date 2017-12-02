@@ -10,5 +10,5 @@ I will be adding notification,profile image for users and material design soon.
 
 Few screenshots are here:
 
-![picture](/sc (1).png)
+https://photos.app.goo.gl/95ctOWFavNiWqugF2
 
