@@ -1,8 +1,9 @@
 # PranayComp
 
-This is a simple app Users to help users register their complaints, view and track them
+This is a simple app to help users register their complaints, view and track them
 and the admin can view the complaints too.
 
+Technology used for back-end:
 i have used firebase real-time database for storing data of users and complaints, firebase storage to store images,
 firebase authentication for login.
 
