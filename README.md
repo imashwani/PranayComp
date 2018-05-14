@@ -13,6 +13,4 @@ Few screenshots are here:
 
 https://photos.app.goo.gl/95ctOWFavNiWqugF2
 
-![app wale](https://user-images.githubusercontent.com/20511163/40021571-e32666fc-57e2-11e8-9922-4246dce51f9c.png)
-
-
+![app screenshots](https://user-images.githubusercontent.com/20511163/40021637-07d2e4d0-57e3-11e8-81e7-48c629685244.png)
